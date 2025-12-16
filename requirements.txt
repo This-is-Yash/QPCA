@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+numpy>=1.26,<2.0
+pandas>=2.0,<2.2
+qutip>=5.0.0
+matplotlib>=3.7
+plotly>=5.18
