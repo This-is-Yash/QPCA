@@ -16,6 +16,10 @@ This is a **Streamlit-based web application** that demonstrates **Quantum Princi
 
 ---
 
+## **Streamlit deployment live now**
+
+https://5reozagtdpwcsvaveca4cz.streamlit.app/
+
 ## **Installation**
 
 1. Clone the repository:
